@@ -5,8 +5,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class gitTest {
-    /*@RequestMapping("test")
+    @RequestMapping("test")
     public Object test(){
         return "test";
-    }*/
+    }
 }
